@@ -1,0 +1,6 @@
+{
+  "name": "G-SolveNation",
+  "description": "From Government Problem to Proven Solution - AI-Powered Public Innovation-to-Scale Platform (SIH26136).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
